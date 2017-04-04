@@ -8,7 +8,7 @@ var model = {
 
 var api = {
   root: "https://api.themoviedb.org/3",
-  token: "", // TODO 0 done
+  token: "0513dc1a1a68acbee7b2f39910ee2089", // TODO 0 done
   /**
    * Given a movie object, returns the url to its poster image
    */
